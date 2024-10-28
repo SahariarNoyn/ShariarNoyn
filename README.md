@@ -29,6 +29,6 @@
     
   </p>
 
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarariarNoyn&layout=compact"/>
+  <img alt="top langs" src="!(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"/>
 </body>
 </html>
