@@ -29,6 +29,5 @@
     
   </p>
 
- <(https://github-readme-stats.vercel.app/api?username=SahariarNoyn&theme=dark&show_icons=true)"/>
 </body>
 </html>
